@@ -529,11 +529,15 @@
     width:30%;
   }
 
+  .logo-class {
+    width:270px;
+    height:auto;
+  }
+
 @media (max-width: 790px) {
 
   .logo-class {
     width: 60px;
-    height: auto;
   }
 
   .frame-25-16 {
